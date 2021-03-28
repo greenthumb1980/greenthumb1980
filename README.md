@@ -2,7 +2,7 @@
 - 👀 I’m interested in phyton and aws/devops also datascience
 - 🌱 I’m currently learning phyton language
 - 💞️ I’m looking to collaborate on phyton projects
-- 📫 How to reach me : kanıbirselman@gmail.com
+- 📫 How to reach me : kanibirselman@gmail.com
 
 <!---
 greenthumb1980/greenthumb1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
